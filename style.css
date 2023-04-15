@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: normal;
+}
+
+body{
+    background-color: rgb(24, 34, 33);
+}
+
+header{    
+    background-color: rgb(249, 175, 28);
+}
+
+img{
+    width: 100px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+#title{ 
+    text-decoration: underline;
+    text-align: center; 
+    transform: translateY(-70px);
+}
+
+section{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.registroFormulario{
+    color: yellow;
+    text-decoration: underline;
+}
+
+form{
+    margin: 20px;
+    color: rgb(249, 175, 28);
+    text-align: center;
+}
+
+input{
+    width: 200px;
+    border-radius: 4px;
+}
+
+.secondTitle{
+    text-decoration: underline;
+}
+
+button{
+    width: 70px;
+    height: 20px;
+    cursor: pointer;
+    color: rgb(24, 34, 33);
+}
